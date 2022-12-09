@@ -23,7 +23,8 @@ avg_opp_HEAD_landed (Average Opponent Head landed)
 avg_HEAD_landed (Average Head landed)
 avg_opp_TOTAL_STR_att (Average Opponent Total Strike attempted)
 
-We were able to achieve the 61% after breaking the data down to focus on these specific parts based on the order of importance.
+We were able to achieve the 61% after breaking the data down to focus on these specific parts based on the order of importance. Another challenge was being unable to make proper primary keys for the data, so the fighters each received new unique IDs and the fights were also given unique IDs to compare them and combine them for the SQL.
+
 We were all also able to meet and in Slack and communicate outside of class to look at and examine how we all were doing, such as how we wanted to break down the CSV files and look at the Tableau heat maps.
 
 We were able to find through the data that the average peak age of the fighters is between the ages of 30-34. As to be expected, each fighter can only take so much damage before their body gives into the hits, leading to focusing on certain parts, especially the avg_SIG_STR_pct. It was also found that the heights and reach of the fighters didn't matter; this is due to the UFC not relying too much upon these factors. Through the data found about the camps, even though the camps didn't create any noticable benefits, those without the camps did around 10% worse.
